@@ -1,0 +1,4 @@
+{
+  "prisma-smart-formatter.typescriptreact.defaultFormatter": "vscode.typescript-language-features",
+  "cSpell.words": ["cloudinary", "hookform", "nextjs", "prismadb"]
+}
