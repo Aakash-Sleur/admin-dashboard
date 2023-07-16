@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Admin Dashboar using Next.js, TailwindCSS, Prisma, Planet Scale and MySQL
 
-## Getting Started
+### Description
 
-First, run the development server:
+Welcome to our cutting-edge Admin Dashboard Application, the ultimate tool to empower administrators in managing their systems with ease and efficiency. Whether you're overseeing a business, website, or any digital platform, our intuitive and feature-rich dashboard is designed to streamline your management tasks and deliver actionable insights at your fingertips.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Key Features
+ - Resonsive design using TailwindCSS and components from Shadcn UI
+ - Clerk authentication
+ - SignIn and SignOut functionalites using Clerk
+ - All-in-One Solution - CMS, Admin, and API
+ - Create and Manage Stores
+ - Category Management
+ - Product Management
+ - Create, update and delete filters such as "Color" and "Size" whicch is matched to products
+ - Server error handeling using react-hot-toast
+ - Keep track of the sales in the store using order section
+ - Switch among light, night or system mode for the application
+ - Graphical Sales Representation
+ - Image Upload with Cloudinary Integration
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Project preview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Home Page
+![Screenshot 2023-07-16 122749](https://github.com/Aakash-Sleur/admin-dashboard/assets/112175038/42f20660-3063-494c-b582-56e0f78eb74e)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Order Page
+![Screenshot 2023-07-16 122811](https://github.com/Aakash-Sleur/admin-dashboard/assets/112175038/338b92ad-3444-407c-beab-02d24d401641)
 
-## Learn More
+### Night Mode, Light Mode and System default
+![Screenshot 2023-07-16 122825](https://github.com/Aakash-Sleur/admin-dashboard/assets/112175038/08752aa4-dd06-435d-8949-a40d82d08d82)
 
-To learn more about Next.js, take a look at the following resources:
+### Settings Page
+![Screenshot 2023-07-16 122900](https://github.com/Aakash-Sleur/admin-dashboard/assets/112175038/7bb1c8ca-5f32-4fc2-9c56-6656cf08b3b2)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Create/Edit products, categories and etc
+![Screenshot 2023-07-16 123126](https://github.com/Aakash-Sleur/admin-dashboard/assets/112175038/a3a60a9b-261d-4776-a2f0-f15eeaa1f4cf)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
