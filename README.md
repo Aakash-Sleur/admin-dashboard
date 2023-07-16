@@ -37,3 +37,66 @@ Welcome to our cutting-edge Admin Dashboard Application, the ultimate tool to em
 ![Screenshot 2023-07-16 123126](https://github.com/Aakash-Sleur/admin-dashboard/assets/112175038/a3a60a9b-261d-4776-a2f0-f15eeaa1f4cf)
 
 
+## Live Application
+https://admin-dashboard-phi-one.vercel.app
+
+## Prerequisites
+
+NODE 14.x
+
+### Clone Repoistory
+```shell
+https://github.com/Aakash-Sleur/admin-dashboard.git
+```
+
+### Install
+```shell
+npm install
+```
+
+### Set Environment up
+```js
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+# This was inserted by `prisma init`:
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL=''
+
+# Cloudinary
+
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=""
+
+# Stripe
+
+STRIPE_API_KEY=
+FRONTEND_STORE_URL=
+STRIPE_WEBHOOK_SECRET=
+```
+
+## Start the Application
+```
+npm run dev
+```
+
+
+
+
+
+
+
+
+
+
+
+
