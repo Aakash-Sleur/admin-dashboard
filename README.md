@@ -1,4 +1,4 @@
-# Admin Dashboar using Next.js, TailwindCSS, Prisma, Planet Scale and MySQL
+# Admin Dashboard using Next.js, TailwindCSS, Prisma, Planet Scale and MySQL
 
 ### Description
 
