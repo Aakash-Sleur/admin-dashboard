@@ -2,7 +2,7 @@
 
 ### Description
 
-Welcome to our cutting-edge Admin Dashboard Application, the ultimate tool to empower administrators in managing their systems with ease and efficiency. Whether you're overseeing a business, website, or any digital platform, our intuitive and feature-rich dashboard is designed to streamline your management tasks and deliver actionable insights at your fingertips.
+Welcome to our cutting-edge Admin Dashboard Application, the ultimate tool to empower administrators to manage their systems with ease and efficiency. Whether you're overseeing a business, website, or any digital platform, our intuitive and feature-rich dashboard is designed to streamline your management tasks and deliver actionable insights at your fingertips.
 
 ### Key Features
  - Resonsive design using TailwindCSS and components from Shadcn UI
